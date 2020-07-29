@@ -1,5 +1,3 @@
-# test_lead_it
-
 ## Project setup
 ```
 npm install
